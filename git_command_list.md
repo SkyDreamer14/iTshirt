@@ -14,3 +14,5 @@ git remote add origin GitHubAddress
 ### 단어 정리
 origin : 원격 저장소 의미
 master: 기본 커밋을 올리는 줄기
+
+### 이것도?
